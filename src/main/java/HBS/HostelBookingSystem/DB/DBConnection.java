@@ -8,7 +8,7 @@ public class DBConnection {
 	private static String driver = "com.mysql.cj.jdbc.Driver";
 	 private static final String URL = "jdbc:mysql://localhost:3306/hostel_db";
 	    private static final String USER = "root";
-	    private static final String PASSWORD = "Karthikb@11";
+	    private static final String PASSWORD = "Karthik";
 
 	    public static Connection getConnection() throws SQLException  {
 	    	try {				
